@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercpdate",
+        "uuid": 4847640,
+        "checksum": "oepu3f"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
